@@ -1,2 +1,2 @@
 # cf-fun-app
-Sample README.md
+Sample README.md file
